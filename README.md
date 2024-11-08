@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nabil KOUKI</h1>
-<h3 align="center">A passionate developer from Tunisia</h3>
+<h1 align="center">Hi 👋, I'm Nabil Kouki</h1>
+<h3 align="center">DevOps | Developer</h3>
 
-- 🔭 I’m currently working on **Student-Helper**
+- 🔭 I’m currently working on **Music Kind Classifier**
 
-- 🔭 I’m currently working on **Manga-mobile-app**
+- 🔭 I’m currently working on **Car race unity game**
 
-- 🌱 I’m currently learning **React Js , Django , Ionic**
+- 🌱 I’m currently learning **Terraform , Ansible**
 
 - 📫 How to reach me **koukinabil73@gmail.com**
 
