@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Music Kind Classifier** and **Car Race Unity Game**
 
-- 🌱 I’m currently learning **Terraform, Ansible**
+- 🌱 I’m currently learning **Terraform, Ansible and Machine Learning**
 
 - 📫 How to reach me **koukinabil73@gmail.com**
 
